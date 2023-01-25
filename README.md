@@ -1,7 +1,12 @@
-### Oi, meu é Manderson Gomes 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A86FF&height=120&section=header"/>
 
-- 🔭 Sou desenvolvedor Fron-end
-- 🌱 Atualmente estou estudando React
+<div align="center">
+  <p>### Oi, meu é Manderson Gomes 👋</p>
+  <p>🔭 Sou desenvolvedor Fron-end</p>
+  <p>🌱 Atualmente estou estudando React</p>
+</div>
+
+##
 
 <div>
   <a href="https://github.com/MandersonGomes">
@@ -24,5 +29,13 @@
   <a href="https://www.linkedin.com/in/manderson-gomes/" target="_blank"> 
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  
 </div>
+  
+##
+  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MandersonGomes&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+##
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A86FF&height=120&section=footer"/>
