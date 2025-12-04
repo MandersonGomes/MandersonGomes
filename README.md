@@ -2,8 +2,8 @@
 
 <div align="center">
   <p>### Oi, meu é Manderson Gomes 👋</p>
-  <p>🔭 Sou desenvolvedor Fron-end</p>
-  <p>🌱 Atualmente estou estudando React</p>
+  <p>🔭 Sou um estudante de programação com foco em backend</p>
+  <p>🌱 Atualmente estou estudando Lógica de Programação.</p>
 </div>
 
 ##
