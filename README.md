@@ -3,7 +3,7 @@
 <div align="center">
   <p>### Oi, meu é Manderson Gomes 👋</p>
   <p>🔭 Sou um estudante de programação com foco em backend</p>
-  <p>🌱 Atualmente estou estudando Lógica de Programação.</p>
+  <p>🌱 Atualmente estou estudando no Bootcamp Desenvolvimento Java & Cloud.</p>
 </div>
 
 ##
